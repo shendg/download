@@ -7,7 +7,6 @@ import java.io.File;
 
 /**
  * 文件工具类
- * Created by wangzhen on 2019-09-12.
  */
 public class FileUtils {
 

@@ -2,7 +2,6 @@ package com.sdg.download.callback;
 
 /**
  * 下载回调默认实现类
- * Created by wangzhen on 2019-09-12.
  */
 public class AbsDownloadCallback implements OnDownloadCallback {
     @Override

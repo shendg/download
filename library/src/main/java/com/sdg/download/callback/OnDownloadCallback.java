@@ -2,7 +2,6 @@ package com.sdg.download.callback;
 
 /**
  * 下载回调接口
- * Created by wangzhen on 2019-09-12.
  */
 public interface OnDownloadCallback {
     /**

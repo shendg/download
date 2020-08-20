@@ -28,7 +28,6 @@ import static com.sdg.download.utils.FileUtils.getNameFromUrl;
 
 /**
  * 执行下载任务
- * Created by wangzhen on 2019-09-12.
  */
 public final class DownloadTask extends Thread {
     private static final int MSG_SUCCESS = 0x1;

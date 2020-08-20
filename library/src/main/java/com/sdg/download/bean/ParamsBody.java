@@ -4,7 +4,6 @@ import com.sdg.download.callback.OnDownloadCallback;
 
 /**
  * 下载参数构建
- * Created by wangzhen on 2019-09-12.
  */
 public class ParamsBody {
     public Object tag;

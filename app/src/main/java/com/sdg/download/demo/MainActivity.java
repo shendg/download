@@ -11,7 +11,6 @@ import com.sdg.download.callback.AbsDownloadCallback;
 
 /**
  * MainActivity
- * Created by wangzhen on 2019-12-03.
  */
 public class MainActivity extends AppCompatActivity {
 

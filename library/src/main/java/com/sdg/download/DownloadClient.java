@@ -11,7 +11,6 @@ import java.util.concurrent.Executors;
 
 /**
  * 多线程下载器
- * Created by wangzhen on 2019-09-12.
  */
 public final class DownloadClient {
     private static DownloadClient mInstance;
